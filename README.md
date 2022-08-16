@@ -33,3 +33,10 @@
   <h2>Screenshot</h2>
   <img src="https://s6.uupload.ir/files/screenshot_at_2022-08-16_09-40-12_jy1f.png"/>
 </div>
+
+<div>
+  <h2>Jar File</h2>
+  <a href="https://uupload.ir/view/jlogger_fpqw.jar/">
+    Download
+  </a>
+</div>
