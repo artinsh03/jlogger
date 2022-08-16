@@ -1,6 +1,6 @@
 # jlogger
-# How to use?\n
-JLogger logger = new JLogger();\n
+# How to use?
+JLogger logger = new JLogger();
 // Success log
 logger.success("Log");
 // Error log
