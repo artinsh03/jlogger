@@ -28,3 +28,8 @@
   <h5>Example</h5>
     JLogger logger = new JLogger(new File("/home/user/jlogger.log"));
 </div>
+
+<div>
+  <h2>Screenshot</h2>
+  <img src="https://s6.uupload.ir/files/screenshot_at_2022-08-16_09-40-12_jy1f.png"/>
+</div>
