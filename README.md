@@ -2,9 +2,10 @@
 <p> JLogger is a library for print colored log's in java</p>
 
 <h2>How to use?</h2>
-<p>
-JLogger logger = new JLogger();<br>
-// Success log <br>
+<div>
+  <h4>Create a JLogger Object</h4>
+    JLogger logger = new JLogger();<br>
+<h4>Success log </h4>
 logger.success("Log");<br>
 // Error log<br>
 logger.error("Log");<br>
@@ -16,4 +17,4 @@ logger.warning("Log");<br>
 logger.log("Log");<br>
 // Exception log<br>
 logger.exception("Log");<br>
-</p>
+</div>
