@@ -2,16 +2,18 @@
 <p> JLogger is a library for print colored log's in java</p>
 
 <h2>How to use?</h2>
-JLogger logger = new JLogger();
-// Success log
-logger.success("Log");
-// Error log
-logger.error("Log");
-// Message log
-logger.message("Log");
-// Warning log
-logger.warning("Log");
-// Log
-logger.log("Log");
-// Exception log
-logger.exception("Log");
+<p>
+JLogger logger = new JLogger();<br>
+// Success log <br>
+logger.success("Log");<br>
+// Error log<br>
+logger.error("Log");<br>
+// Message log<br>
+logger.message("Log");<br>
+// Warning log<br>
+logger.warning("Log");<br>
+// Log<br>
+logger.log("Log");<br>
+// Exception log<br>
+logger.exception("Log");<br>
+</p>
