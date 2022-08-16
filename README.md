@@ -23,7 +23,7 @@
 <div>
   <h2>Saving log's into a file</h2>
     <p>
-      for saving log's into a file,you have to pass a file into a JLogger constructor    
+      for saving log's into a file,you have to pass a file object into a JLogger constructor    
     </p>
   <h5>Example</h5>
     JLogger logger = new JLogger(new File("/home/user/jlogger.log"));
