@@ -36,7 +36,7 @@
 
 <div>
   <h2>Jar File</h2>
-  <a href="https://uupload.ir/view/jlogger_fpqw.jar/">
+  <a href="https://drive.google.com/file/d/1Gq3nE02c2-jfF3sClf6kwmWUqSQ-HWw5/view?usp=sharing">
     Download
   </a>
 </div>
