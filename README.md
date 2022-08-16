@@ -1,4 +1,4 @@
-<h1>jlogger</h1>
+<h1>JLogger</h1>
 <p> JLogger is a library for print colored log's in java</p>
 
 <h2>How to use?</h2>
