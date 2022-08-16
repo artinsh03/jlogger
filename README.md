@@ -1,7 +1,7 @@
 # jlogger
-# How to use?
-*JLogger logger = new JLogger();
-*// Success log
+<h2>How to use?</h2>
+JLogger logger = new JLogger();
+// Success log
 logger.success("Log");
 // Error log
 logger.error("Log");
