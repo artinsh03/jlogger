@@ -19,3 +19,12 @@
   <h4>2_6 - Exception log</h4>
     logger.exception("Log");<br>
 </div>
+
+<div>
+  <h2>Saving log's into a file</h2>
+    <p>
+      for saving log's into a file,you have to pass a file into a JLogger constructor    
+    </p>
+  <h5>Example</h5>
+    JLogger logger = new JLogger(new File("/home/user/jlogger.log"));
+</div>
